@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_timer">400dp</dimen>
+    <dimen name="tamanho_letra1">110sp</dimen>
+    <dimen name="tamanho_letra2">56sp</dimen>
+</resources>

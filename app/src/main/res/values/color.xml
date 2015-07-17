@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="colorPrimary" type="color">#cf344a</item>009688
+    <item name="colorPrimaryDark" type="color">#8b313e</item>
+    <item name="colorAccentLight" type="color">#a9505d</item>
+    <item name="colorAccent" type="color">#009688</item>
+    <item name="colorAccentDark" type="color">#00796B</item>
+    <item name="colorBackground" type="color">#212f3a</item>
+
+    <item name="primary_text" type="color">#212121</item>
+    <item name="secondary_text" type="color">#727272</item>
+    <item name="divider" type="color">#B6B6B6</item>
+
+    <item name="gray_dark" type="color">#727272</item>
+    <item name="gray_light" type="color">#bdbdbd</item>
+    <item name="background" type="color">#e6e6e6</item>
+    <item name="white" type="color">#FFFFFF</item>
+
+    <item name="white_50" type="color">#80FFFFFF</item>
+
+</resources> 

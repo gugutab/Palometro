@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tamanho_timer">270dp</dimen>
+    <dimen name="tamanho_letra1">72sp</dimen>
+    <dimen name="tamanho_letra2">26sp</dimen>
+</resources>
